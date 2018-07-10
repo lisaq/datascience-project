@@ -3,7 +3,7 @@
 This is a repository for my project from the 
 PyLadies Data Science Workshop.
 
-(Read the detailed setup instructions here.)[https://www.meetup.com/PyLadies-Berlin/events/251789319/]
+[Read the detailed setup instructions here.](https://www.meetup.com/PyLadies-Berlin/events/251789319/)
 
 ## Setup [in Terminal]
 You need Python3:
